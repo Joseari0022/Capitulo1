@@ -4,13 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Error_Ocacionado
+namespace Nombre_Consola
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Consol.WriteLine("Jose Ariel Gonzalez");
+            Console.WriteLine("Jose Gonzalez");
         }
     }
 }
